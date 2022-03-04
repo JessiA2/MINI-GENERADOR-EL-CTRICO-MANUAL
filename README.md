@@ -30,7 +30,15 @@ https://www.youtube.com/watch?v=AZPtr3bPZsk
 
 •	Se concluye que el generador eléctrico manual no necesariamente necesita de un combustible para que pueda generar energía eléctrica, sino que como se pudo observar en la práctica de igual manera se tiene que la energía se la produce de forma manual.
 
-•	Mediante la elaboración de la práctica nos dimos cuenta que un generador eléctrico esta dividido de forma rotativa y estática explicados brevemente, pero en este caso para nuestra práctica  se utilizó un generador rotativo  o llamado generador eléctrico.
-
+•	Mediante la elaboración de la práctica nos dimos cuenta que un generador eléctrico esta dividido de forma rotativa y estática explicados brevemente, pero en este caso para nuestra práctica se utilizó un generador rotativo o también llamado generador eléctrico.
 
 7.BIBLIOGRAFÍA
+
+El incleible mundo del Vine. (2 de julio de 2019). EXPERIMENTOS CASEROS . Obtenido de 
+
+https://www.youtube.com/watch?v=xqAJPnFefYo
+
+GUERRA, D. A. (09 de diciembre de 2019). GENERADOR ELÉCTRICO CASERO. Obtenido de 
+
+https://es.slideshare.net/tuprincipe503092/construccin-de-un-generador-elctrico-casero
+
