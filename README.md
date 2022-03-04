@@ -28,4 +28,9 @@ https://www.youtube.com/watch?v=AZPtr3bPZsk
 
 6.CONCLUSIONES
 
+•	Se concluye que el generador eléctrico manual no necesariamente necesita de un combustible para que pueda generar energía eléctrica, sino que como se pudo observar en la práctica de igual manera se tiene que la energía se la produce de forma manual.
+
+•	Mediante la elaboración de la práctica nos dimos cuenta que un generador eléctrico esta dividido de forma rotativa y estática explicados brevemente, pero en este caso para nuestra práctica  se utilizó un generador rotativo  o llamado generador eléctrico.
+
+
 7.BIBLIOGRAFÍA
