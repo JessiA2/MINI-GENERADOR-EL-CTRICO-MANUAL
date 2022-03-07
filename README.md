@@ -50,7 +50,7 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/93733175/156976403-9ffe743d-5138-4ee7-a349-b39329468dd1.png)
 
-•	Finalmente, medimos cuanta corriente pasa por los leds brevemente conectados con la ayuda de un multímetro. 
+•	Finalmente, medimos cuanta corriente pasa por los leds brevemente conectados con la ayuda de un multímetro digital. 
 
 ![image](https://user-images.githubusercontent.com/93733175/156976486-013ffe63-fa62-4617-aa39-55e8e7ed2768.png)
 
